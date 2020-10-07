@@ -1,4 +1,7 @@
 
-$ pip install -r requirements.tx
+###To install all the required dependencies for the project:
 
-pip freeze > requirements.txt
+$ pip install -r requirements.txt
+
+### To generate requirements.txt for all the dependencies on your system:
+$ pip freeze > requirements.txt
