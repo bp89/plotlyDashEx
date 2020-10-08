@@ -7,11 +7,15 @@ Flix Bank
     - vehicle loan
     - personal loan
     - home loan
-    - construction loan
-- demat accounts
 
 A.
-1. Create a dashboard page titled Account Statistics:
+1. Create a dashboard page titled Flix Banking with following details:
+    - Add logo with the name of the bank & keep it left aligned
+    - bank name should be 8px padded with logo and should be left aligned as logo is.
+    - Add tabs right aligned and in same row as logo as following:
+        - Home
+        - Savings
+        - Loan
 2. Add a Line chart showing number of each account type accounts (a line of different color for each account)
     opened in current year by default
     Add a select box on top left of the chart which shows following time periods:
