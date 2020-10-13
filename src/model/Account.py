@@ -7,7 +7,3 @@ class Account(object):
     accountType: AccountType = None
     accountOpeningDate = None
 
-    # def __init__(self, accountNumber, accountHolderName, accountType):
-    #     self.accountHolderName = accountHolderName
-    #     self.accountType = accountType
-    #     self.accountNumber = accountNumber
